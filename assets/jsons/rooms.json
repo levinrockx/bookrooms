@@ -1,0 +1,42 @@
+[
+  {
+    "room_id": 1,
+    "room_name": "Inspiration Lounge"
+  },
+  {
+    "room_id": 2,
+    "room_name": "Success Majors"
+  },
+  {
+    "room_id": 3,
+    "room_name": "Achievement Territory"
+  },
+  {
+    "room_id": 4,
+    "room_name": "Group Effort"
+  },
+  {
+    "room_id": 5,
+    "room_name": "Proficiency Group"
+  },
+  {
+    "room_id": 6,
+    "room_name": "Success Cartel"
+  },
+  {
+    "room_id": 7,
+    "room_name": "Agents Of Change"
+  },
+  {
+    "room_id": 8,
+    "room_name": "IdeaWorks"
+  },
+  {
+    "room_id": 9,
+    "room_name": "Burning Desire"
+  },
+  {
+    "room_id": 10,
+    "room_name": "Inner Winners"
+  }
+]
